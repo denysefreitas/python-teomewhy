@@ -19,15 +19,15 @@ Os enunciados foram retirados dos [slides](https://docs.google.com/presentation/
 ## Lista 02: Estruturas de controle (if, elif e else)
 
 7. Faça um programa que vende uma garrafa de água:
-- Se o cliente escolher água mineral natural, será cobrado R$1,50
-- Se o cliente escolher água mineral com gás, será cobrado R$2,50
+   1. Se o cliente escolher água mineral natural, será cobrado R$1,50
+   2. Se o cliente escolher água mineral com gás, será cobrado R$2,50
 
 8. Altere o programa anterior para considerar a quantidade de garrafas de água
 
 9. Faça o programa de uma sorveteria, onde o usuário pode escolher:
-- Tipo de sorvete: casquinha (R$1,00), cascão (R$2,50), cestinha (R$4,00)
-- Sabor do sorvete: morango, creme, chocolate
-- Cobertura: Caramelo (R$1,50), morango (R$1,50), chocolate (R$1,50), sem cobertura (R$0,00)
+   1. Tipo de sorvete: casquinha (R$1,00), cascão (R$2,50), cestinha (R$4,00)
+   2. Sabor do sorvete: morango, creme, chocolate
+   3. Cobertura: Caramelo (R$1,50), morango (R$1,50), chocolate (R$1,50), sem cobertura (R$0,00)
 
     Apresente o valor a ser pago.
 
@@ -45,6 +45,10 @@ Os enunciados foram retirados dos [slides](https://docs.google.com/presentation/
 
 15. Faça um programa que receba uma quantidade indefinida de valores correspondentes a “saldo em conta”, mas quando o usuário apertar “enter” sem digitar valor algum, o programa para de receber valores, e exibe a soma de todos os valores digitados anteriormente.
 
+## Lista 04: Listas
+16. Escreva um programa que receba uma lista de números do usuário e conte quantas vezes um número específico aparece na lista. Solicite ao usuário um número e exiba a contagem.
+
+> ⚠️ O enunciado inicial era esse, mas o professor optou por declarar a lista e não recebê-la do usuário. Portanto, a resolução estará de acordo com o pedido do professor.
 
 ## ▶️ Como executar
 
